@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+I'm currently working as a data engineer at Recorded Future.
 
 <!--
 **johongo/johongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
